@@ -3,7 +3,7 @@ const BLOG = {
   author: 'Kairyu',
   email: 'studyspace666@outlook.com',
   link: 'https://studyspace.vercel.app',
-  description: '一个有趣的博客小站',
+  description: 'A Interesting Blog',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
